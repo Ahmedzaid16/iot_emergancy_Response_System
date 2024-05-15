@@ -15,8 +15,8 @@ DHT dht(DHT_PIN, DHT11);
 const char* WIFI_SSID = "Ahmed_zaid@iot";
 const char* WIFI_PASS = "iot0123498765";
 
-const char* FIREBASE_HOST = "iot-dht11-9f793-default-rtdb.firebaseio.com";
-const char* FIREBASE_AUTH = "sCJxnfedntVtF4NuY4dvAVsjmCUJnzpI4mGJ8jf6";
+const char* FIREBASE_HOST = ""; // firebase link
+const char* FIREBASE_AUTH = ""; // firebase auth key
 
 const char* broker = "192.168.137.1";
 const int port = 1883;
