@@ -1,0 +1,3 @@
+[submodule "iot_project"]
+	path = iot_project
+	url = https://github.com/Ahmedzaid16/iot_project
