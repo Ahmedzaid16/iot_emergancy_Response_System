@@ -48,4 +48,15 @@ Our Emergency Response System is designed to monitor and respond to environmenta
 6. **Real-Time Monitoring (Flutter App)**:
    - Display real-time values for temperature, gas, and fire sensors.
    - Send lock commands to the NodeMcu to control the buzzer.
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Ahmedzaid16/iot_emergancy_Response_System/assets/84353686/9089011d-0899-4d03-ac91-b0a19071b37e" alt="Screenshot 1" width="45%" style="border-bottom: 1px solid black; margin-bottom: 5px;"/>
+  <img src="https://github.com/Ahmedzaid16/iot_emergancy_Response_System/assets/84353686/dcfa2272-4100-44d5-a3f7-37e161d634eb" alt="Screenshot 2" width="45%" style="border-bottom: 1px solid black; margin-bottom: 5px;"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Ahmedzaid16/iot_emergancy_Response_System/assets/84353686/5a5dd136-6f6f-4f7d-b2d1-eca55868c606" alt="Screenshot 3" width="45%" style="border-bottom: 1px solid black; margin-bottom: 5px;"/>
+  <img src="https://github.com/Ahmedzaid16/iot_emergancy_Response_System/assets/84353686/512af01d-7c3e-48fb-90b7-0b567a07cb81" alt="Screenshot 4" width="45%" style="border-bottom: 1px solid black; margin-bottom: 5px;"/>
+</p>
 
